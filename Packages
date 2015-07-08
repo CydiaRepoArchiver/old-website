@@ -11,5 +11,5 @@ SHA256: ab3524327396e03490cb9bd9bd3722dc521ac6a2ab03dd606bc9023d00d34216
 Section: iWidgets
 Description: A rewrite of motivational quotes now using rss feeds for new quotes.
 Author: Wizage <wizagesmax@gmail.com>
-Depiction: http://wizages.github.io/Depic/quotes/index.html
+Depiction: https://wizages.github.io/depic/quotes/index.html
 Name: Quotes
