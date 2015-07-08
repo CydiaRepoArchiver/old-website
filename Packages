@@ -9,7 +9,7 @@ MD5sum: 3e17d78351b20743d322f9cc6665f7df
 SHA1: 82d2e382edfbdfc760559c7c01de6bd1bafae86d
 SHA256: ab3524327396e03490cb9bd9bd3722dc521ac6a2ab03dd606bc9023d00d34216
 Section: iWidgets
-Description: A rewrite of motivational quotes now using rss feeds for new quotes.
+Description: A rewrite of motivational quotes now using rss feeds for new quotes. If you have any suggestions on other quote websites, email me at wizagesmax@gmail.com and I will try to add them in!
 Author: Wizage <wizagesmax@gmail.com>
 Depiction: https://wizages.github.io/depic/quotes/index.html
 Name: Quotes
