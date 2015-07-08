@@ -1,0 +1,9 @@
+Origin: Wizage's Repo
+Label: Wizages's Repo
+Suite: stable
+Version 1.0
+Codename: Wizage
+Architectures: iphoneos-arm
+Components: main
+Description: Wizage's Repo
+MD5Sum:
