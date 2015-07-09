@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Wizage <wizagesmax@gmail.com>
 Depends: com.eldwin.iwidgets
 Filename: debs//com.wizage.quotes.deb
-Size: 376960
+Size: 375960
 MD5sum: B1C777DF848232D42F75550BA2E75EA9
 SHA1: C6A0521BBB5FBCBA6C7DFB6663A9D474205805AB
 SHA256: BBE6C41D8C3A0E0B874789479516F992ABAC3EE37F38898523B674D91DB09A05
