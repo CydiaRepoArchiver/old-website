@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Wizage <wizagesmax@gmail.com>
 Depends: com.eldwin.iwidgets
 Filename: debs//com.wizage.quotes.deb
-Size: 375960
-MD5sum: b1c777df848232d42f75550ba2e75ea9
-SHA1: c6a0521bbb5fbcba6c7dfb6663a9d474205805ab
-SHA256: bbe6c41d8c3a0e0b874789479516f992abac3ee37f38898523b674d91db09a05
+Size: 376032
+MD5sum: d9a3644864a5ceb84bc859b3cd94ff80
+SHA1: ca57a03b50288660569fe7005e975792ba5fb45bd
+SHA256: 2b38116a85a4b9dc4c62f55b24a3c570c769d0cd256ef683c623d1fcc7f65d7c
 Section: iWidgets
 Description: A rewrite of motivational quotes now using rss feeds for new quotes.
 Author: Wizage <wizagesmax@gmail.com>
