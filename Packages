@@ -21,7 +21,7 @@ Maintainer: wizage <wizagesmax@gmail.com>
 Depends: mobilesubstrate
 Filename: debs//com.wizage.musicfix.deb
 Section: Tweaks
-Size: 2178
+Size: 2194
 MD5sum: 936551092d5b3cb08fb54607bd73199a
 SHA1: 00fbf2dbe4a39ba73d5d1140670ea8be48868793
 SHA256: a4cab7d5229add25a7ab7521b7dcbf7b84430ad3a611aecfc5f2e7dfe9f96ec8
