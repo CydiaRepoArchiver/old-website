@@ -15,7 +15,7 @@ Depiction: https://wizages.github.io/depic/quotes/index.html
 Name: Quotes
 
 Package: com.wizage.musicfix
-Version: 0.3-1
+Version: 0.3
 Architecture: iphoneos-arm
 Maintainer: wizage <wizagesmax@gmail.com>
 Depends: mobilesubstrate
