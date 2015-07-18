@@ -21,10 +21,10 @@ Maintainer: wizage <wizagesmax@gmail.com>
 Depends: mobilesubstrate
 Filename: debs//com.wizage.musicfix.deb
 Section: Tweaks
-Size: 3460
-MD5sum: 71b0a68fbd776a896c2609282bf9bf06
-SHA1: c5d423f1861fbce6970614a0723a6fdc76208cbd
-SHA256: df60ec98f1ef3950a62fa0c4de90e278bb6b5d113aa767c2a42681dc64215b08
+Size: 3464
+MD5sum: f5a86da1818f3f9a019d68dc80674a51
+SHA1: 24ff073b4869bd1bd97af078773e1f8b03f586de
+SHA256: 9257df95866afcb68163de48250a2ebf3016d93041c867897d302ccc6d90daac
 Section: Tweaks
 Description: Fixes the issue on Garmin Connect app not playing any app but the music app!
 Author: wizage <wizagesmax@gmail.com>
