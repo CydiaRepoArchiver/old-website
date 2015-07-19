@@ -19,7 +19,7 @@ Version: 0.3
 Architecture: iphoneos-arm
 Maintainer: wizage <wizagesmax@gmail.com>
 Depends: mobilesubstrate
-Filename: debs//com.wizage.musicfix.deb
+Filename: debs//com.wizage.musicfix_0.3_iphoneos-arm.deb
 Section: Tweaks
 Size: 3464
 MD5sum: f5a86da1818f3f9a019d68dc80674a51
