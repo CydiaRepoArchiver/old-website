@@ -15,17 +15,16 @@ Depiction: https://wizages.github.io/depic/quotes/index.html
 Name: Quotes
 
 Package: com.wizage.musicfix
-Version: 0.3
+Version: 0.4
 Architecture: iphoneos-arm
 Maintainer: Wizage <wizagesmax@gmail.com>
 Depends: mobilesubstrate
-Filename: debs//com.wizage.musicfix_0.3_iphoneos-arm.deb
+Filename: debs//com.wizage.musicfix_0.4_iphoneos-arm.deb
 Section: Tweaks
-Size: 3462
-Installed-Size: 72
-MD5sum: 82cd88b347f4bb03d259bfc964362a52
-SHA1: a1a4af8fa0783c4854bf456f0d5541a1c95e5687
-SHA256: 63a603a770170106fdbb360a87d0aea5995040d9bdce936dbf3ea17d93be45f2
+Size: 2642
+MD5sum: 0977a7acdf5d2556ddd5aa4d103e7f0b
+SHA1: c3370885bb85ab4bbe85d641ed2690798fe9f3e6
+SHA256: ff4491d70e0ce711e1f4f00ca328c996fd5ed95b69a7a349d72b8668fc2208b9
 Description: Fixes the issue on Garmin Connect app not playing any app but the music app!
 Author: Wizage <wizagesmax@gmail.com>
 Depiction: https://wizages.github.io/depic/musicfix/index.html
