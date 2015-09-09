@@ -40,7 +40,7 @@ Description: Changes the action sheets to a alert popup and allows you to custom
 Maintainer: Wizage <wizagesmax@gmail.com>
 Author: Wizage <wizagesmax@gmail.com>
 Section: Tweaks
-Filename: debs//com.wizages.cleansheets_0.0.1_iphoneos-arm.deb
+Filename: debs//com.wizages.cleansheets_0.1_iphoneos-arm.deb
 Depends: mobilesubstrate
 Depiction: https://wizages.github.io/depic/cleansheets/index.html
 Name: CleanSheets
