@@ -30,3 +30,17 @@ Description: Fixes the issue on Garmin Connect app not playing any app but the m
 Author: Wizage <wizagesmax@gmail.com>
 Depiction: https://wizages.github.io/depic/musicfix/index.html
 Name: MusicFix
+
+Package: com.wizages.cleansheets
+Name: CleanSheets
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Changes the action sheets to a alert popup and allows you to customize the alert.
+Maintainer: Wizage <wizagesmax@gmail.com>
+Author: Wizage <wizagesmax@gmail.com>
+Section: Tweaks
+Filename: debs//com.wizages.cleansheets_0.0.1_iphoneos-arm.deb
+Depends: mobilesubstrate
+Depiction: https://wizages.github.io/depic/cleansheets/index.html
+Name: CleanSheets
